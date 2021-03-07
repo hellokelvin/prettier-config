@@ -1,0 +1,26 @@
+{
+  "name": "@kelvin/javascript",
+  "version": "1.0.0",
+  "description": "JavaScript linters and formatters used by the Kelvin Team accross JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellokelvin/javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "styleguide",
+    "eslint",
+    "eslintconfig",
+    "prettier"
+  ],
+  "author": "The Kelvin Team <contact@kelvin.eco>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellokelvin/javascript/issues"
+  },
+  "homepage": "https://github.com/hellokelvin/javascript#readme"
+}
