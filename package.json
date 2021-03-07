@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hellokelvin/javascript/issues"
   },
-  "homepage": "https://github.com/hellokelvin/javascript#readme"
+  "homepage": "https://github.com/hellokelvin/javascript#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
 }
