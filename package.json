@@ -1,5 +1,5 @@
 {
-  "name": "@kelvin/javascript",
+  "name": "@kelvinapp/javascript",
   "version": "1.0.0",
   "description": "JavaScript linters and formatters used by the Kelvin Team accross JavaScript projects",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/hellokelvin/javascript/issues"
   },
   "homepage": "https://github.com/hellokelvin/javascript#readme",
-  "devDependencies": {
-    "prettier": "2.2.1"
+  "dependencies": {
+    "prettier": "^2.2.1"
   }
 }
