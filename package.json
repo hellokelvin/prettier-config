@@ -1,5 +1,5 @@
 {
-  "name": "@kelvinapp/prettier-config",
+  "name": "@kelvin/prettier-config",
   "version": "1.0.3",
   "description": "JavaScript linters and formatters used by the Kelvin Team accross JavaScript projects",
   "main": "index.js",
